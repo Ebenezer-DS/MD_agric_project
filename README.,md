@@ -1,0 +1,4 @@
+# Maji Ndgog Agricultural Survey
+# In this Code Challenge we’re diving into the agricultural dataset again to continue to validate our data. Before we do that, 
+we’re pausing to build a data pipeline that will ingest and clean our data with the press of a button, 
+cleaning up our code significantly. Once that’s ready, we’ll complete our data validation.
